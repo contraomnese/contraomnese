@@ -1,5 +1,5 @@
 <h1 align="center">Howdy, my friends 🤓️ </h1>
-<p align="center">My name's Sergey and I'm beginer python backend-developer</p>
+<h3 align="center">My name's Sergey and I'm beginer python backend-developer</h3>
 
 #
 

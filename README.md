@@ -10,9 +10,11 @@
 
 #
 
-<h3 align="center">🔭 My first pet project:</h3>
+<h3 align="center">🔭 My pet projects:</h3>
 <p align="center">
-<a href="https://github.com/arbuzerxxl/sasha-artsoul/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-pet-friendly-hotel-management-flaticons-lineal-color-flat-icons.png" alt="none" height="40" width="40" /></a></p>
+<a href="https://github.com/arbuzerxxl/sasha-artsoul/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-pet-friendly-hotel-management-flaticons-lineal-color-flat-icons.png" alt="none" height="40" width="40" /></a>
+<a href="https://github.com/arbuzerxxl/call-registration-system/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-pet-friendly-hotel-management-flaticons-lineal-color-flat-icons.png" alt="none" height="40" width="40" /></a>
+</p>
 
 #
 

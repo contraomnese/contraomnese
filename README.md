@@ -2,6 +2,8 @@
 <h3 align="center">My name's Sergey and I'm beginer python backend-developer</h3>
 
 #
+<h3 align="center">My TG: https://t.me/arbuzer_xxl </h3>
+#
 
 <h3 align="center">Goals:</h3>
 <p align="center">👨‍💻️ Start working in IT</p>

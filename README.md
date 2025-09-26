@@ -3,19 +3,19 @@
 
 #
 
-<h3 align="center">Сontact me:</h3>
+<h3 align="center">Сontact me</h3>
 <p align="center">📬 https://t.me/contraomnese</p>
 
 #
 
-<h3 align="center">Goals:</h3>
+<h3 align="center">Goals</h3>
 <p align="center">👨‍💻️ Become an expert in the Android ecosystem</p>
 <p align="center">🎯 Reach the Middle/Senior/Tech Lead level and be able to lead a team and mentor junior developers.</p>
 <p align="center">🌏️ Work in international companies and projects, participate in global products</p>
 
 #
 
-<h3 align="center">🔭 My pet projects:</h3>
+<h3 align="center">🔭 My pet projects</h3>
 <p align="center">
 <a href="https://github.com/contraomnese/Weather/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=uEV36IijHymM&format=png&color=000000" alt="none" height="40" width="40" /></a>
 <a href="https://github.com/contraomnese/VibeShot/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=u6A1fcsd1q2J&format=png&color=000000" alt="none" height="40" width="40" /></a>
@@ -26,7 +26,8 @@
 
 #
 
-<h3 align="center">Resume:</h3>
+<h3 align="center">Resume</h3>
 <p align="center">
-<a href="https://drive.google.com/file/d/1XbbS1ycGV2GmtgfRin2YspW3sNH2wc6F/view?usp=sharing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="none" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sergey-kurbatov-9055b7257/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="none" height="40" width="40" /></a>
+<a href="https://drive.google.com/file/d/1XbbS1ycGV2GmtgfRin2YspW3sNH2wc6F/view?usp=sharing" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=121324&format=png&color=000000" alt="none" height="40" width="40" /></a>
 </p>

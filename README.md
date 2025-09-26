@@ -28,5 +28,5 @@
 
 <h3 align="center">Resume:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="none" height="30" width="40" /></a>
+<a href="https://drive.google.com/file/d/1XbbS1ycGV2GmtgfRin2YspW3sNH2wc6F/view?usp=sharing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="none" height="30" width="40" /></a>
 </p>

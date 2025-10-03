@@ -29,5 +29,6 @@
 <h3 align="center">Resume</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sergey-kurbatov-9055b7257/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="none" height="40" width="40" /></a>
-<a href="https://drive.google.com/file/d/1dS7OW1D0PHccY93Y_wb5ioAu9lAfAGT0/view?usp=sharing" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=121324&format=png&color=000000" alt="none" height="40" width="40" /></a>
+RUS: <a href="https://drive.google.com/file/d/1dS7OW1D0PHccY93Y_wb5ioAu9lAfAGT0/view?usp=sharing" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=121324&format=png&color=000000" alt="none" height="40" width="40" /></a>
+EN:<a href="https://drive.google.com/file/d/136Dvt5J65yHe4zBpTuejUe4THigJ2v0p/view?usp=sharing" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=121324&format=png&color=000000" alt="none" height="40" width="40" /></a>
 </p>
